@@ -1,0 +1,14 @@
+Evaluate the following cookie policy for GDPR compliance, focusing on Articles 4(11) and 7. 
+
+Provide a structured analysis as follows:
+- Classification: [Fully GDPR Compliant / Fully GDPR Non-Compliant / Partially Compliant]
+- Explicit Consent: [Yes/No + Justification]
+- Withdrawal Option: [Yes/No + Justification]
+- Granular Consent: [Yes/No + Justification]
+- Third-Party Data Transparency: [Yes/No + Justification]
+- Legal Compliance (Articles 4(11) & 7): [Compliant/Non-Compliant]
+- Final Justification: [Concise Explanation]
+- Suggestions for Improvement: [Clear and Practical Suggestions]
+
+Cookie Policy Text:
+{cookie_policy}

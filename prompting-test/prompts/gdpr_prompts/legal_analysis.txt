@@ -1,0 +1,19 @@
+Critically evaluate the following cookie policy with a strict legal perspective, focusing on GDPR compliance (Articles 4(11) and 7).
+
+1. Legal Classification: [Fully Compliant / Partially Compliant / Non-Compliant]
+2. Legal Justification:
+   - Explicit Consent: [Yes/No + Legal Basis]
+   - Withdrawal Mechanism: [Yes/No + Legal Justification]
+   - Granular Consent: [Yes/No + Justification]
+   - Data Transparency: [Yes/No + Justification]
+   - Third-Party Data Handling: [Yes/No + Clarity Level]
+3. Compliance with Articles:
+   - Article 4(11) (Consent Definition): [Compliant/Non-Compliant + Reason]
+   - Article 7 (Conditions for Consent): [Compliant/Non-Compliant + Reason]
+4. Final Justification:
+   - Clearly state the primary reason behind the classification.
+5. Suggested Enhancements:
+   - List specific improvements to meet legal requirements.
+
+Cookie Policy Text:
+{cookie_policy}

@@ -1,0 +1,7 @@
+{
+  "prompt_folder": "prompts/",
+  "data_folder": "data/",
+  "output_file": "output/results.csv",
+  "log_file": "logs/execution.log",
+  "batch_size": 10
+}

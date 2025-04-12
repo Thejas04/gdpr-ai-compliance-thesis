@@ -1,0 +1,32 @@
+[
+    {
+        "text": "We use cookies to enhance your experience. By continuing, you agree to our use of cookies.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)",
+        "structured_explanation": "Consent is given, but the withdrawal process is difficult."
+    },
+    {
+        "text": "Click 'Allow' to accept cookies and proceed to the site. You can modify cookie preferences anytime.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)",
+        "structured_explanation": "Consent is unclear but withdrawal is easy."
+    },
+    {
+        "text": "Do you consent to our cookies for personalized ads and social media features? Yes/No.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)",
+        "structured_explanation": "Consent is explicit, but no easy withdrawal option is available."
+    },
+    {
+        "text": "Accepting cookies will enable analytics, personalized recommendations, and more.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)",
+        "structured_explanation": "Consent is given, but the withdrawal process is difficult."
+    },
+    {
+        "text": "By accepting, you give consent for us to process your personal data as per our cookie policy.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)",
+        "structured_explanation": "Consent is explicit, but no easy withdrawal option is available."
+    },
+    {
+        "text": "By clicking 'Accept All', you consent to our use of cookies for analytics and personalization.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)",
+        "structured_explanation": "Granular consent is missing, but users can withdraw consent easily."
+    }
+]

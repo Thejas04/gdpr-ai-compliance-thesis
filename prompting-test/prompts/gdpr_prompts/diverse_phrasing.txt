@@ -1,0 +1,11 @@
+Review the following cookie policy for GDPR compliance. Use varied phrasing to assess model robustness:
+
+1. Is explicit consent evident and clear? How is it obtained?
+2. Does the policy offer an option to revoke consent? Is it easy to access?
+3. How does the policy inform users about data sharing practices with third parties?
+4. Are users given the flexibility to manage individual cookie preferences?
+5. Summarize the compliance level: [Compliant / Non-Compliant / Partially Compliant]
+6. Final Thoughts and Recommendations: [Clear and Practical Suggestions]
+
+Cookie Policy Text:
+{cookie_policy}

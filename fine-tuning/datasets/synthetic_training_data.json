@@ -1,0 +1,578 @@
+[
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Non-Compliant, Article 7 Compliant)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Fully GDPR Compliant. Compliance description and context.",
+        "label": "Fully GDPR Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (No Clear Consent, But Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (No Clear Consent, But Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Given but Consent Process Is Difficult). Compliance description and context.",
+        "label": "Partially Compliant (Consent Given but Consent Process Is Difficult)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Granular Consent Missing, Withdrawal Available). Compliance description and context.",
+        "label": "Partially Compliant (Granular Consent Missing, Withdrawal Available)"
+    },
+    {
+        "text": "Example text for category Fully GDPR Non-Compliant. Compliance description and context.",
+        "label": "Fully GDPR Non-Compliant"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Consent Issues and Transparency Issues). Compliance description and context.",
+        "label": "Partially Compliant (Consent Issues and Transparency Issues)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) Compliant, Article 7 Not). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) Compliant, Article 7 Not)"
+    },
+    {
+        "text": "Example text for category Partially Compliant (Article 4(11) & Article 7 Partial Violation). Compliance description and context.",
+        "label": "Partially Compliant (Article 4(11) & Article 7 Partial Violation)"
+    }
+]

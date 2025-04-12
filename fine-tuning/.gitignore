@@ -1,0 +1,25 @@
+# Ignore logs
+logs/
+*.log
+
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebooks
+*.ipynb
+
+# Environment and OS files
+.env
+.venv/
+venv/
+ENV/
+env/
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/

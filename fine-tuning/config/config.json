@@ -1,0 +1,13 @@
+{
+    "model_name": "nlpaueb/legal-bert-base-uncased",
+    "epochs": 5,
+    "batch_size": 16,
+    "learning_rate": 3e-5,
+    "logging_steps": 50,
+    "lora_r": 8,
+    "output_dir": "../output/",
+    "lora_alpha": 16,
+    "lora_dropout": 0.1,
+    "lora_bias": "none",
+    "num_labels": 9
+}

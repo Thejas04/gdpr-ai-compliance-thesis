@@ -1,0 +1,17 @@
+Analyze the following cookie policy for GDPR compliance. Additionally, consider hypothetical scenarios:
+
+1. What if explicit consent was not obtained? How would it affect compliance?
+2. What if users cannot withdraw consent easily? Assess the impact.
+3. How would compliance change if granular consent was mandatory?
+4. What if data sharing with third parties was not transparent?
+5. How would compliance be affected if data transfer to non-EU countries occurred without safeguards?
+
+Structured Output:
+- Classification: [Fully Compliant / Non-Compliant / Partially Compliant]
+- Main Compliance Analysis: [Detailed Breakdown]
+- Counterfactual Impact: [Explanation for each scenario]
+- Final Justification: [Concise and Clear]
+- Suggestions for Improvement: [Specific Action Points]
+
+Cookie Policy Text:
+{cookie_policy}

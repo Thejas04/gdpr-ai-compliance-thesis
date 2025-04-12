@@ -1,0 +1,13 @@
+Analyze the following cookie policy for GDPR compliance. Provide a quick summary as follows:
+
+- Classification: [Compliant / Non-Compliant / Partially Compliant]
+- Key Points:
+  - Explicit Consent: [Yes/No + Justification]
+  - Withdrawal Option: [Yes/No + Justification]
+  - Granular Consent: [Yes/No + Justification]
+  - Data Transparency: [Yes/No + Justification]
+- Final Justification: [Brief Explanation]
+- Improvement Suggestions: [List Key Improvements]
+
+Cookie Policy Text:
+{cookie_policy}

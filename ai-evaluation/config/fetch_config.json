@@ -1,0 +1,14 @@
+{
+    "output_folder": "input/",
+    "log_file": "logs/fetch_outputs.log",
+    "source_folders": [
+        {
+            "name": "Prompting Test Outputs",
+            "path": "~/prompting-test/output"
+        },
+        {
+            "name": "Fine-Tuning Test Outputs",
+            "path": "~/fine-tuning/scripts/output"
+        }
+    ]
+}

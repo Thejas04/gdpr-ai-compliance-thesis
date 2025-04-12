@@ -1,0 +1,24 @@
+Analyze the following cookie policy for compliance with GDPR, focusing on key aspects of Articles 4(11) and 7. Provide a comprehensive breakdown:
+
+1. Classification: [Compliant / Non-Compliant / Partially Compliant]
+2. Consent and Withdrawal Mechanism:
+   - Is explicit consent given? Explain how it is presented.
+   - Can users easily withdraw consent? Describe the mechanism.
+3. Granular Consent and Options:
+   - Are users given a choice to select specific cookie types? Explain.
+   - Is granular control over cookies offered?
+4. Data Transparency and Third-Party Sharing:
+   - Is data sharing with third parties disclosed clearly?
+   - Is the purpose of data processing transparent and understandable?
+5. Compliance with Legal Articles:
+   - Article 4(11) (Consent Definition): [Compliant/Non-Compliant + Reason]
+   - Article 7 (Conditions for Consent): [Compliant/Non-Compliant + Reason]
+6. Critical Analysis:
+   - Identify any areas where the policy may fail to meet GDPR requirements.
+7. Final Justification:
+   - Clearly explain why the classification was chosen.
+8. Improvement Suggestions:
+   - Practical steps to enhance GDPR compliance.
+
+Cookie Policy Text:
+{cookie_policy}

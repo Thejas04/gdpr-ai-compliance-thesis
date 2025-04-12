@@ -1,0 +1,20 @@
+Conduct a dynamic and comprehensive analysis of the following cookie policy for GDPR compliance:
+
+1. Compliance Classification: [Fully / Partially / Non-Compliant]
+2. Consent Mechanisms:
+   - How is explicit consent handled?
+   - Can users withdraw consent easily?
+   - Are granular consent options provided?
+3. Data Sharing Transparency:
+   - Is third-party data sharing clearly outlined?
+   - Are cross-border data transfers addressed?
+4. GDPR Article Compliance:
+   - Article 4(11): [Compliant/Non-Compliant + Reason]
+   - Article 7: [Compliant/Non-Compliant + Reason]
+5. Final Justification:
+   - Summarize the main reason for the classification.
+6. Improvement Suggestions:
+   - Actionable steps for enhancing compliance.
+
+Cookie Policy Text:
+{cookie_policy}
