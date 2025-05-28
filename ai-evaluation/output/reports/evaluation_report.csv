@@ -1,5 +1,0 @@
-Model,Accuracy,Precision,Recall,F1-Score
-results_qwen:7b,0.0,0.0,0.0,0.0
-results_deepseek-r1:latest,0.0,0.0,0.0,0.0
-results_llama2:latest,0.0,0.0,0.0,0.0
-results_mistral:latest,0.0,0.0,0.0,0.0
